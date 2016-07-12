@@ -2,6 +2,8 @@
 
 A Discover tool for Node.js application running on Argo (and Harbor).
 
+[![Build Status](https://travis-ci.org/turnerlabs/argo-discover.svg?branch=master)](https://travis-ci.org/turnerlabs/argo-discover)
+
 
 ## Usage
 
