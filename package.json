@@ -1,0 +1,28 @@
+{
+  "name": "argo-discover",
+  "version": "1.0.0",
+  "description": "Use Discover in Argo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turnerlabs/argo-discover"
+  },
+  "author": {
+    "name": "Wilson Wise",
+    "email": "wilson.wise@turner.com"
+  },
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/turnerlabs/argo-discover",
+  "bugs": "https://github.com/turnerlabs/argo-discover/issues",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "2.4.5",
+    "nock": "7.0.2"
+  },
+  "engines": {
+    "node": "4.2.5"
+  }
+}
